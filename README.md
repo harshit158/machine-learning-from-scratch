@@ -1,1 +1,1 @@
-# algorithms-from-scratch
+# ML / NLP concepts and algorithms from scratch
